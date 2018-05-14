@@ -1,0 +1,5 @@
+D:\学习\C学习\Communications\UdpPacks\bin\Debug\UdpPacks.dll
+D:\学习\C学习\Communications\UdpPacks\bin\Debug\UdpPacks.pdb
+D:\学习\C学习\Communications\UdpPacks\obj\Debug\UdpPacks.csprojResolveAssemblyReference.cache
+D:\学习\C学习\Communications\UdpPacks\obj\Debug\UdpPacks.dll
+D:\学习\C学习\Communications\UdpPacks\obj\Debug\UdpPacks.pdb

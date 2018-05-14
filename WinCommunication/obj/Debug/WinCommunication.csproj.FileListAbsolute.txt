@@ -1,0 +1,13 @@
+D:\学习\C学习\Communications\WinCommunication\bin\Debug\WinCommunication.exe.config
+D:\学习\C学习\Communications\WinCommunication\bin\Debug\WinCommunication.exe
+D:\学习\C学习\Communications\WinCommunication\bin\Debug\WinCommunication.pdb
+D:\学习\C学习\Communications\WinCommunication\obj\Debug\WinCommunication.frmCommunication.resources
+D:\学习\C学习\Communications\WinCommunication\obj\Debug\WinCommunication.Properties.Resources.resources
+D:\学习\C学习\Communications\WinCommunication\obj\Debug\WinCommunication.csproj.GenerateResource.Cache
+D:\学习\C学习\Communications\WinCommunication\obj\Debug\WinCommunication.exe
+D:\学习\C学习\Communications\WinCommunication\obj\Debug\WinCommunication.pdb
+D:\学习\C学习\Communications\WinCommunication\obj\Debug\WinCommunication.UIpopups.resources
+D:\学习\C学习\Communications\WinCommunication\obj\Debug\WinCommunication.frmPopups.resources
+D:\学习\C学习\Communications\WinCommunication\obj\Debug\WinCommunication.csprojResolveAssemblyReference.cache
+D:\学习\C学习\Communications\WinCommunication\bin\Debug\UdpPacks.dll
+D:\学习\C学习\Communications\WinCommunication\bin\Debug\UdpPacks.pdb
